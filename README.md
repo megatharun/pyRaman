@@ -1,4 +1,4 @@
-This python library was developed specifically to analyze 2-dimensional image Raman scattering data on single crystal and electronic semiconductor materials but can be further used for other type of samples as well. The software was structured so that additional built-in classes and functions can be readily added for other type of analyses. The software utilize the wdfReader library. The authors would like to thank lovaulonze for creating the wdfReader library (under the open-sourced MIT license)
+This python library was developed specifically to analyze 2-dimensional image Raman scattering data on single crystal and electronic semiconductor materials but can be further used for other type of samples as well. The software was structured so that additional built-in classes and functions can readily be added for other type of analyses. The software utilizes the wdfReader library. The authors would like to thank lovaulonze for creating the wdfReader library (under the open-sourced MIT license)
 
 Note: 
 
