@@ -2,7 +2,7 @@ This python library was developed specifically to analyze 2-dimensional image Ra
 
 Note: 
 
-Changes has been made to the wdfreader (https://github.com/alchem0x2A/py-wdf-reader). Possibly need to install renishawWiRE
+Changes have been made to the wdfreader (https://github.com/alchem0x2A/py-wdf-reader). Possibly need to install renishawWiRE
 and cut/paste the below line to line 26 in pyRaman.py file:
 
 from renishawWiRE import WDFReader as wdf
